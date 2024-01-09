@@ -1,5 +1,7 @@
 # Privacy Disclosure Classification
 
+[![DOI](https://zenodo.org/badge/740991698.svg)](https://zenodo.org/doi/10.5281/zenodo.10474910)
+
 ## Overview
 This repository hosts the code and resources for a project focused on classifying user stories based on their susceptibility to privacy disclosure. It utilizes FlairNLP for effective text classification.
 
