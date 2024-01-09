@@ -1,0 +1,663 @@
+As a Developer , I want to develop a custom importer.
+ - Gold: 0
+ - Pred: 0
+
+As a member, I want to receive a reminder and a link, so that I can renew my membership.
+ - Gold: 1
+ - Pred: 1
+
+As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mode, So that my users can understand the interface in their native language.
+ - Gold: 0
+ - Pred: 0
+
+Information about an individual's privacy preferences
+ - Gold: 1
+ - Pred: 1
+
+Information that describes an individual’s sexual life
+ - Gold: 1
+ - Pred: 1
+
+As a patron, I want to email system provider to report issues and ask questions.
+ - Gold: 1
+ - Pred: 1
+
+As an UnivITservice, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some point in the future.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a site visitor, I want to read current news on the home page, so that I stay current on agile news.
+ - Gold: 0
+ - Pred: 0
+
+As a Publisher, I want to undelete the deleted data packages, so that that the deleted data packages is now visible again.
+ - Gold: 0
+ - Pred: 0
+
+As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
+ - Gold: 0
+ - Pred: 0
+
+As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly.
+ - Gold: 0
+ - Pred: 0
+
+As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a site visitor, I want to be able to read some of your articles, so that I can learn without first joining the site.
+ - Gold: 0
+ - Pred: 0
+
+As a depositor, I want to place data under an embargo, so that my right of first use is protected, and I can fulfil my confidentiality responsibilities.
+ - Gold: 1
+ - Pred: 1
+
+As a crossdeptprojteammember, I want to have a better place to collect and share project materials, with a range of organization/tagging and access options, including private (internal group use only), University and public.
+ - Gold: 0
+ - Pred: 0
+
+As a patron, I want to select/deselect reports/datasets to be emailed, possibly many at one time, when new versions are available.
+ - Gold: 0
+ - Pred: 0
+
+As a repository support team member, I want to move a collection, so that I can fulfill the collection owner's request.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As an archivist, I want to search images by uploading an image, so that so I can find images when i don't have any metadata.
+ - Gold: 0
+ - Pred: 0
+
+As a site admin, I want to delete any course or event, so that I can remove things that will no longer occur.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
+ - Gold: 1
+ - Pred: 1
+
+As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
+ - Gold: 1
+ - Pred: 1
+
+As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+Technical and organisational measures, for instance security measure, storage restrictions etc. required/followed when processing data of the declared category
+ - Gold: 0
+ - Pred: 0
+
+As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.
+ - Gold: 0
+ - Pred: 0
+
+As a researcher, I want to have any data that I have written to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a point in time.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a participant, I want to immediately see that an estimate has been given by a specific estimator, so that I know who has already given an estimate and who we’re still waiting for.
+ - Gold: 1
+ - Pred: 1
+
+As a user, I want to be able to use Unicode, so that I can use any language I like.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can see what I am up to.
+ - Gold: 1
+ - Pred: 1
+
+As an OlderPerson, I want to just press one button to call my caregiver.
+ - Gold: 1
+ - Pred: 1
+
+As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
+ - Gold: 0
+ - Pred: 0
+
+As a user researcher, I want to have the WIG prototype, so that I can finalize the second task script.
+ - Gold: 0
+ - Pred: 0
+
+As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work.
+ - Gold: 0
+ - Pred: 0
+
+As a DAMS manager, I want to know when copyright for an object or object component is likely to expire per jurisdictional copyright statute.
+ - Gold: 0
+ - Pred: 0
+
+As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
+ - Gold: 0
+ - Pred: 0
+
+As an OlderPerson, I want to decide who has access to my vital data.
+ - Gold: 1
+ - Pred: 1
+
+As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a researcher, I want to store agreements relating to third party data used in a project, so that the data can be cited, attributed and used correctly.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to.
+ - Gold: 1
+ - Pred: 1
+
+As a Publisher, I want to have private data packages, so that I can share just with my team.
+ - Gold: 1
+ - Pred: 1
+
+As an OlderPerson, I want to receive visual support, especially when looking at a list, map or agenda.
+ - Gold: 0
+ - Pred: 0
+
+Information about an individual's favorites
+ - Gold: 1
+ - Pred: 1
+
+As a PI, I want to record information about my DMP, so that an Ethics Committee can review this for compliance with ethical standards.
+ - Gold: 0
+ - Pred: 0
+
+As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a repository manager, I want to indicate the geo-coordinates for any resource that believe useful to an end user.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+Information about prescriptions made for an individual.
+ - Gold: 1
+ - Pred: 1
+
+As a anonymoususer, I want to register to speak at BADCamp, so that I submit a session.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, release frequency, and keywords for searching.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As an OlderPerson, I want to use ALFRED to hear about the news.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a user, I want to associate together files involved in a experiment.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a Publisher, I want to create a data package in the UI so that it is available and published.
+ - Gold: 0
+ - Pred: 0
+
+As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset, so that the spending lines in my dataset is more understandable.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+to send out data
+ - Gold: 0
+ - Pred: 0
+
+As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can work with the engineers to determine feasibility.
+ - Gold: 0
+ - Pred: 0
+
+As an institutional data manager, I want to know about the privacy and security requirements of the data, so that I can plan the right storage system and sharing permissions.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+Information about an individual's income bracket.
+ - Gold: 1
+ - Pred: 1
+
+As a user, I want to get info about perceptually similar video items and segments.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a Data Analyst, I want to compare different versions of some datapackage locally, so that that I can see schema changes clearly and adjust my analytics code to the desired schema version.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As an OlderPerson, I want to use ALFRED to contact help in case of an emergency.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+Information about an individual's divorce(s).
+ - Gold: 1
+ - Pred: 1
+
+As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I receive attribution for my data as well as my publications.
+ - Gold: 1
+ - Pred: 1
+
+As a Consumer, I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it.
+ - Gold: 0
+ - Pred: 0
+
+As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified.
+ - Gold: 0
+ - Pred: 0
+
+As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am lost.
+ - Gold: 1
+ - Pred: 1
+
+As a site visitor, I want to see a list of all upcoming Certification Courses and can page through them if there are a lot, so that I can choose the best course for me.
+ - Gold: 0
+ - Pred: 0
+
+Information that relates to an individual's attitude.
+ - Gold: 1
+ - Pred: 1
+
+As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select times for things like notification of upcoming downtime.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As an OlderPerson, I want to have ALFRED ask spontaneous questions but it would be better to programme it during certain times of the day.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a Zooniverse admin, I want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors.
+ - Gold: 0
+ - Pred: 0
+
+As a researcher, I want to know when only part of a folder has been digitized, so that I know if I am seeing everything or only a portion.
+ - Gold: 0
+ - Pred: 0
+
+As an OlderPerson, I want to have ALFRED to give me goals and missions that encourage me to do new activities and exercises and to go out.
+ - Gold: 0
+ - Pred: 0
+
+As a researcher, I want to indicate within my electronic log book which experimental data is good/bad, hide the bad data, but still keep it in the system just in case it is useful in the future.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+to irreversibly alter personal data in such a way that a unique data subject can no longer be identified directly or indirectly or in combination with other data
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a Trainer, I want to include additional details in my profile page about me, so that others can learn about me and decide if I am the right trainer for them.
+ - Gold: 1
+ - Pred: 1
+
+Information about an individual's salary
+ - Gold: 1
+ - Pred: 1
+
+As a site administrator, I want to create an Other Course or Event that is not charged a listing fee, so that the Scrum Alliance doesn't charge itself for Scrum Gatherings that it puts on.
+ - Gold: 0
+ - Pred: 0
+
+As a MedicalCaregiver, I want to be able to see if the patient has taken her medicine.
+ - Gold: 1
+ - Pred: 1
+
+As a user, I want to prove definitively that I created a page on a certain date.
+ - Gold: 0
+ - Pred: 0
+
+As a library staff member, I want to upload material to the repository on the author's behalf, so that I can fulfill a service obligation.
+ - Gold: 0
+ - Pred: 0
+
+to make a record (especially media)
+ - Gold: 0
+ - Pred: 0
+
+As a Cornell faculty member, I want to easily find all the items in the repository that I have authored, by searching on my name (author name authority and/or identification issue), because I keeps my publications in the repository up-to-date and points people tithe repository.
+ - Gold: 1
+ - Pred: 1
+
+As a site editor, I want to be able to indicate whether an article is publicly available or for members only, so that visitors are incentivized to become members.
+ - Gold: 0
+ - Pred: 0
+
+As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As an Archivist, I want to upload an EAD for import from within the frontend application.
+ - Gold: 0
+ - Pred: 0
+
+As a developer, I want to be able to design my App on my own - though there will be a few rules I have to stand to.
+ - Gold: 0
+ - Pred: 0
+
+As an NSF employee, I want to have an updated roadmap document, so that I can see prioritized areas to focus on for the next few months and beyond.
+ - Gold: 0
+ - Pred: 0
+
+As a plugin developer, I want to use a custom dataset type that was deployed independently or as part of an app inside the plugin.
+ - Gold: 0
+ - Pred: 0
+
+As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant.
+ - Gold: 1
+ - Pred: 1
+
+As a library staff member, I want to create collections which highlight rare, archival, or endangered material, so that I can preserve and provide access to this material.
+ - Gold: 0
+ - Pred: 0
+
+As a web recruiter manager, I want to confirm the recruiter is set up and working properly, so that I can deploy it on more pages.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a developer, I want to present my app to as many people as Possible.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+Indicates the purpose is associated with activities in the indicated (Economic) Sector(s)
+ - Gold: 0
+ - Pred: 0
+
+As a VisualDesigner, I want to demonstrate the value of visual design to the NSF project team, so that visual design is an integral part of a redesign.
+ - Gold: 0
+ - Pred: 0
+
+Biometric information on an individual.
+ - Gold: 1
+ - Pred: 1
+
+As an ethics manager, I want to be informed about the data, so that I can check for sensitivity of data.
+ - Gold: 1
+ - Pred: 1
+
+As a Cornell faculty member, I want to upload data and provide a cut and paste formatted citation for people who use it, so that I receive proper attribution for my work.
+ - Gold: 0
+ - Pred: 0
+
+to apply a restriction on the processsing of specific records
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+Personalisation of benefits received by the user
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a MedicalCaregiver, I want to have a simple ALFRED unit that is expandable in is functions.
+ - Gold: 0
+ - Pred: 0
+
+As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+ - Gold: 1
+ - Pred: 1
+
+An individual's secret text used in the process of authenticating the individual as a user accessing a system, e.g., when recovering a lost password.
+ - Gold: 1
+ - Pred: 1
+
+As a researcher, I want to have a group-level repository for sharing papers/reviews/comments with other researchers.
+ - Gold: 1
+ - Pred: 1
+
+As a collection curator, I want to have a tool to perform author authority control.
+ - Gold: 0
+ - Pred: 0
+
+As a MedicalCaregiver, I want to have ALFRED to propose me games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs.
+ - Gold: 0
+ - Pred: 0
+
+As an Agency user, I want FABS deployed into production, so I can submit my Financial Assistance data.
+ - Gold: 1
+ - Pred: 1
+
+Information about an individual’s dialect.
+ - Gold: 1
+ - Pred: 1
+
+As a government Publisher, I want to make it easy to prove that our published data is valid, so that I can claim that we are living up to our transparency commitments.
+ - Gold: 0
+ - Pred: 0
+
+As a Consumer, I want to view a publisher's profile, so that that I can see who is behind a particular package or to see what other packages they produce.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+Information about an individual's voice mail messages.
+ - Gold: 1
+ - Pred: 1
+
+As a user, I want to see all the component parts of an object.
+ - Gold: 0
+ - Pred: 0
+
+As a data librarian, I want to extract pointers from the DMP to metadata held in other systems, so that I can import this metadata into a data catalogue.
+ - Gold: 0
+ - Pred: 0
+
+As a DAMS manager, I want know the dates for when a permission or restriction is active.
+ - Gold: 0
+ - Pred: 0
+
+As a researcher, I want to record my intention to share data I have collected under terms of a particular licence, so that other researchers who use the data understand the rights of use.
+ - Gold: 1
+ - Pred: 1
+
+Information about an individual's marital status and history
+ - Gold: 1
+ - Pred: 1
+
+As a Developer, I want to list all DataPackages requirements for my project in the file and pin the exact versions of any DataPackage that my project depends on, so that that the project can be deterministically deployed locally and won't break because of the DataPackage schema changes.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As an admin, I want to prefilter nudity content.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As an IT officer, I want to know how secure data is, so that I can ensure legal compliance.
+ - Gold: 1
+ - Pred: 1
+
+As a developer, I want to present my App in several ways.
+ - Gold: 0
+ - Pred: 0
+
+As an archivist, I want to mark groups of files as restricted, so that they don't get shared by mistake.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+Information about house(s) owned by an individual.
+ - Gold: 1
+ - Pred: 1
+
+As an Agency user, I want historical FPDS data loaded.
+ - Gold: 0
+ - Pred: 0
+
+As a Researcher, I want to get a Data Package into Julia in seconds, so that I can start using the data for doing analysis and visualizations.
+ - Gold: 0
+ - Pred: 0
+
+Information about an individual's thoughts
+ - Gold: 1
+ - Pred: 1
+
+Room number of a location associated with an individual.
+ - Gold: 1
+ - Pred: 1
+
+As a repository manager, I want to indicate the language(s) for present in a collection, object, or object component.
+ - Gold: 0
+ - Pred: 0
+
+As a user, I want to identify brands in videos, and receive related information about them.
+ - Gold: 0
+ - Pred: 0
+
+As a user, I want to search and discover music or ringback tones similar to a given music video based on content similarity.
+ - Gold: 1
+ - Pred: 1
+
+As a anonymoususer, I want to see a list of all the summits that include when they are, so that I can determine which summit I want to attend.
+ - Gold: 0
+ - Pred: 0
+
+As an Archivist, I want to import EAD data.
+ - Gold: 0
+ - Pred: 0
+
+As an API User, I want to be able to persistently store visualisation state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
+ - Gold: 0
+ - Pred: 0
+
+As a moderator, I want to delete my account, so that account information and games are no longer stored.
+ - Gold: 1
+ - Pred: 1
+
+As a depositor, I want to mint DOIs for my data, so that it can be discovered and cited more easily and citations can be tracked so that I can receive credit.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As an InformalCaregiver, I want to have a game that the carer could play together with the user, so that it would enable to monitor the usersâ€™ state of health but also have some fun time.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+This property associates an instance of legal data handling with its underlying legal basis
+ - Gold: 0
+ - Pred: 0
+
+As a user, I want to receive content recommendations from similar profiles.
+ - Gold: 1
+ - Pred: 1
+
+As a collection curator, I want to view the permission on my objects all together.
+ - Gold: 0
+ - Pred: 0
+
+Information relating to an individual's credit capacity.
+ - Gold: 1
+ - Pred: 1
+
+As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
+ - Gold: 0
+ - Pred: 0
+
+As a participant, I want to be shown all estimates at the same time after all estimators have given their estimate, so that I can be sure estimates are independent and not influenced by other estimates given in the same draw.
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
+ - Gold: 1
+ - Pred: 0
+ -> MISMATCH!
+
+A processor engaged by another processor
+ - Gold: 0
+ - Pred: 1
+ -> MISMATCH!
+
+As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
+ - Gold: 0
+ - Pred: 0
+
+As an administrator, I want to know who funded the project and their requirements, so that I can track the funder specific obligations.
+ - Gold: 0
+ - Pred: 0
+
+As a Zooniverse admin, I want to know what Zoonibot should say to a volunteer.
+ - Gold: 0
+ - Pred: 0
+
+As an Application Administrator , I want to be able to configure the help center URL and topic mappings.
+ - Gold: 0
+ - Pred: 0
+
+to support data migration integrity testing.
+ - Gold: 0
+ - Pred: 0
+
+As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.
+ - Gold: 0
+ - Pred: 0
+
+As a DAMS manager, I want to know if application of a library policy to an object or object component has been modified, either manually or automatically.
+ - Gold: 0
+ - Pred: 0
+
+Information that characterizes an individual's relationships with other individuals.
+ - Gold: 1
+ - Pred: 1
+
+As a DB/IR administrator, I want to manage subject classifications for ease of patron browsing and searching.
+ - Gold: 0
+ - Pred: 0
+
+As an agency user, I want to know when the submission periods start and end, so that I know when the submission starts and ends.
+ - Gold: 0
+ - Pred: 0
+

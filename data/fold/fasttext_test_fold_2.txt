@@ -1,0 +1,387 @@
+__label__1 Information related to an individual's bank account.
+__label__1 As an archivist, I want to ensure that emails sent about specific objects contain accurate citation information, so that I can confirm which object is being referred to.
+__label__1 As a moderator, I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.
+__label__1 As an OlderPerson, I want to decide who has access to my vital data.
+__label__1 As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's body temperature.
+__label__1 As a data reuser, I want to see different versions of a dataset at a glance, so that I can be sure I'm using the right version of the dataset.
+__label__1 As an OlderPerson, I want to have video conversation with others.
+__label__1 As an API User, I want to be able to use metadata to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+__label__1 Information that can be used for contacting an individual e.g. email address or phone number
+__label__1 As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
+__label__1 As a researcher, I want to see the sections on roles submitted by other researchers in my department, so that I can see if we could share data manager posts.
+__label__1 As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
+__label__1 As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
+__label__1 As an archivist, I want to search images by people represented in them.
+__label__1 As an OlderPerson, I want to use ALFRED to contact people from my own circle.
+__label__1 As a Data Publishing User, I want to be able to edit a dataset I have published, So that I can correct or enhance existing data.
+__label__1 Information about an individual's age
+__label__1 As an archivist, I want to upload scans of images created while answering research requests, so that they can be used again for other research requests.
+__label__1 As a researcher, I want to store agreements relating to third party data used in a project, so that the data can be cited, attributed and used correctly.
+__label__1 As a moderator, I want to accept the average of all estimates, so that we can move on to the next item when we agree.
+__label__0 As a user, I want to specify as part of dataset configuration whether it is explorable.
+__label__1 As a researcher, I want to create a log book page for an experiment and attach a file to this page.
+__label__0 to destruct or erase data
+__label__0 As a repository manager, I want to know of any changes made to language(s) indicated for a collection, object, or object component.
+__label__0 As a Researcher, working with data, I want an Microsoft Power BI integration, so that I can import datasets without downloading them locally.
+__label__0 As a researcher, I want to link research publications in the institutional repository or CRIS with DMP records, so that I can generate reports of research output resulting from a project.
+__label__1 As a trainer, I want to have a view that is attached to their training node that shows all attendee information Trainers can see all class attendance at first because there are so little trainers and they are trusted with privacy, so that the training coordinator doesn't have to do all the work to get login info for environment setup.
+__label__0 As a user, I want to create a protocol and assign metadata to any stag.
+__label__1 As a site member, I want to mark my profile as private in which case only my name will appear, so that no one can learn things about me I don't want shared.
+__label__0 As a publisher, I want to show the world how my published data is, so that that it immediately catches consumer's attention.
+__label__1 Information about an individual's school such as name of school, conduct, or grades obtained.
+__label__0 As a dataset developer, I want to assign explicit versions to the code of a dataset type.
+__label__1 As a Publisher, I want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data, so that that if my data is lost or gets broken I still have a copy people can use.
+__label__0 As a site admin, I want to stop publishing jobs on the site 30 days after being posted, so that jobs that may have been filled aren't still listed when the hiring party forgets to come back and delete the ad.
+__label__0 As a anonymoususer, I want to see specific details on summits, so that I can learn more about the summit I'm interested in to see if it matches my interests, register for the event, and get day-of knowledge to help me get to the location.
+__label__0 As a repository manager, I want to indicate subjects that are related to an object.
+__label__0 As an archivist, I want to set a date on which restrictions will be removed from a file, so that that I don't have to update this by hand.
+__label__0 As a developer, I want to have detailed information of what happened when my App crashes on the userâ€™s device.
+__label__1 As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to.
+__label__0 As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
+__label__0 As a donor representative, I want to access the descriptive information about the images scanned for my institutions needs.
+__label__0 As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+__label__0 As a user, I want to download multiple files from the search results in one go.
+__label__1 As a Publisher, I want to have private data packages, so that I can share just with my team.
+__label__0 As a Publisher, I want to be able to restore the deleted data package via cli, so that that it is back visible and available to view, download.
+__label__0 As an OlderPerson, I want to receive visual support, especially when looking at a list, map or agenda.
+__label__0 As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.
+__label__0 As an archivist, I want to use archival content on the RAC website, so that I can integrate our collections into our web presence.
+__label__1 Information about an individual's favorites
+__label__0 As an archivist, I want to make as much archival material as possible available for use, so that I can fulfill the RAC's mission.
+__label__0 As an archivist, I want to automatically generate technical metadata, so that I know the file size.
+__label__1 Information related to an individual's race.
+__label__0 to delete data
+__label__0 As a PI, I want to record information about my DMP, so that an Ethics Committee can review this for compliance with ethical standards.
+__label__1 As a pipeline developer, I want to upgrade a dataset instance to a newer version of the code after the pipeline was created.
+__label__1 As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
+__label__0 As a anonymoususer, I want to have a training landing page with an intro section and a list of all training offerings and promote call for trainings, so that I can shop for training all with one page and we can have a call for trainings for selection.
+__label__1 As a DigitalRecords Archivist, I want to have a method to add and remove individual people from deposit groups.
+__label__0 As a researcher, I want to know how long it will take to archive, so that I can plan further steps.
+__label__0 As an archivist, I want to browse through files in a collection.
+__label__1 As a depositor, I want to deposit the files that I have, so that I don't have to spend a lot of time finding the right version and converting to the right format.
+__label__1 As a Zooniverse admin, I want to detect when a scientist should be prompted to look at a subject, based on annotations and information from Talk comments.
+__label__0 As a developer, I want to have an easy way to manage the pricing modality of my Apps.
+__label__1 As a researcher, I want to create a log book page.
+__label__1 As an asset manager, I want to have mechanism to pass ownership/management of the assets to a successor.
+__label__0 As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
+__label__0 As a anonymoususer, I want to receive a notification when sessions have been evaluated, so that I know whether I've been accepted or rejected.
+__label__0 As a site administrator, I want to read practicing and training applications and approve or reject them, so that only applicants who qualify can become CSPs or CSTs.
+__label__1 Specifies restriction on the storage of personal data
+__label__1 As an employee from the HR department, I want to have access to the full information of all employees working for this business.
+__label__0 As a Data Publishing User, I want to be able to provide the Platform Administrator with additional GeoJSON sources, So that I can improve the map-based visualisations of my data.
+__label__0 As an OlderPerson, I want to have everything preinstalled, so that I do not have to set up ALFRED by myself.
+__label__0 As a user, I want to specify schema as a JSON string.
+__label__0 As a repoadmin, I want to update the repository index without disrupting access to the public interface.
+__label__1 Information on the apartement(s) owned by an individual.
+__label__1 As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments.
+__label__0 As a DAMS manager, I want to know when the event occurred.
+__label__1 As a repository manager, I want to indicate the geo-coordinates for any resource that believe useful to an end user.
+__label__0 As a repository manager, I want to indicate any other rights pertinent to an object.
+__label__1 As a potential research participant, I want to learn about the research and leave my contact information.
+__label__0 As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+__label__0 As a developer, I want to have my App to be granted access to several operating system features.
+__label__1 As a participant, I want to scroll back through the stories and estimates from prior rounds, so that I can use this information when I estimate the item of the current round.
+__label__0 As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
+__label__0 To detect and prevent fraud
+__label__0 As a sponsor, I want to Link to my sponsorship profile from my job listings, so that recruits can learn more about my organization.
+__label__1 As a data scientist, I want to be able to upgrade a dataset instance to a new version of its code.
+__label__0 As an Archivist, I want to create and edit Event records.
+__label__1 Information about groups the individual is included or associated with in a social network
+__label__1 As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive impairments.
+__label__0 As a developer, I want to have the ALFRED API to reduce the work to achieve my goals.
+__label__1 As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.
+__label__1 Information about prescriptions made for an individual.
+__label__1 As a site member, I want to view the profiles of other members, so that I can find others I might want to connect with.
+__label__1 As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
+__label__0 As a anonymoususer, I want to sign up for the BADCamp newsletter, so that I can stay up to date with the latest communications about BADCamp.
+__label__1 As an estimator, I want to join a game by entering my name on the page I received the URL for, so that I can participate.
+__label__0 As a anonymoususer, I want to register to speak at BADCamp, so that I submit a session.
+__label__0 As an Archivist, I want to import Accessions data in CSV.
+__label__0 Specifies procedures for determining permission or authority
+__label__1 As a user, I want to revert to an older version of an uploaded file.
+__label__0 As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+__label__1 Information related to an individual's family health history.
+__label__0 As a summit coordinator, I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+__label__0 As a metadata manager, I want to have a short description of project, so that I can be informed about the metadata description.
+__label__0 As a repository manager, I want to know all events done to an object over the object's life cycle.
+__label__1 As a user, I want to ensure that a dataset operation fails if it fails to make its required changes to explore.
+__label__0 As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data.
+__label__0 As a user, I want to capture the same metadata for each file created in an experimental run.
+__label__1 As an OlderPerson, I want to get suggestions for sports classes in my neighbourhood.
+__label__1 As an OlderPerson, I want to have an introduction conversation with ALFRED, so that I can learn everything about him and he about me.
+__label__0 As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+__label__0 As a Data Analyst I want to download a data package, so that that I can study it and wrangle with it to infer new data or generate new insights.
+__label__0 As a user researcher, I want to conduct a user definition workshop with NSF, so that I can better prepare them and the team for future research work.
+__label__0 As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
+__label__0 As a Consumer, I want to be able to get the data for a data package even if the original data has been moved or removed, so that that I can still use is and my app or analysis keeps working.
+__label__0 to make data known
+__label__0 As an administrator, I want to have a platform that can support a variety of media file and text-based formats, so that the intellectual output of the school can be showcased and preserved in a more comprehensive way.
+__label__0 As a anonymoususer, I want to view a list of sponsors, so that I can thank all the awesome sponsors.
+__label__1 protocols involving validation of identity i.e. authentication of a person or information
+__label__0 As a DAMS manager, I want to indicate to preservation managers the checksum and checksum method for each master file for a given object.
+__label__1 As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, release frequency, and keywords for searching.
+__label__0 As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction.
+__label__0 As a administrator, I want to assign a room to a time slot and a location, so that I can populate the schedule .
+__label__0 As an OlderPerson, I want to use ALFRED to hear about the news.
+__label__1 As a user, I want to search and discover music based on other users similar to myself.
+__label__1 Information that relates to an individual's personality (e.g., categorization in terms of the Big Five personality traits)
+__label__0 As a site visitor, I want to see a trainer's rating, so that I choose a course from an appropriate trainer.
+__label__0 As a trainee, I want to see which trainings I have signed up for, so that they can schedule their event experience.
+__label__0 As a anonymoususer, I want to find out where the coding lounge is and what time it is open, so that I can code with my friends.
+__label__0 As a dataset developer, I want to implement custom administrative operations such as "compaction" or "rebalance" that are no common to all dataset types.
+__label__1 As a user, I want to associate together files involved in a experiment.
+__label__0 As an OlderPerson, I want to have an AFLRED device that encourages its users for real interaction between humans and not only with ICT tools.
+__label__0 As an Archivist, I want to manage Digital Objects.
+__label__0 As an Archivist, I want to assign Location information to a Container.
+__label__0 to change the form or nature of data
+__label__1 As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance created by that plugin when I deploy a new version of the plugin and update the pipeline to use that version.
+__label__1 As an asset manager, I want to be assured that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies.
+__label__1 As a non-Duke researcher, I want to describe my team and mine's objects in the repository after they've been deposited if we've been assigned permission to edit metadata.
+__label__0 As a Publisher, I want to create a data package in the UI so that it is available and published.
+__label__1 As a Publisher, I want to publish a dataset, so that I can view just the dataset with a few people.
+__label__1 As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset, so that the spending lines in my dataset is more understandable.
+__label__0 As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
+__label__1 As a data reuser, I want to search the archive through the web, so that I can easily find data relevant to my needs.
+__label__1 As a DB/IR administrator, I want to login to personal account with access to authorized functions.
+__label__0 As a Developer, I want to get a Data Package into Julia in seconds, so that I can start using the data in doing analysis and visualizations.
+__label__0 As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
+__label__0 As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+__label__0 As an OlderPerson, I want to have an ALFRED device that repeats the last phrase.
+__label__0 to send out data
+__label__0 As a user, I want to know what repository an object belongs to.
+__label__0 A particular legal Basis, which permits personal Data handling (e.g. Consent, etc.)
+__label__0 As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can work with the engineers to determine feasibility.
+__label__1 As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
+__label__1 As an institutional data manager, I want to know about the privacy and security requirements of the data, so that I can plan the right storage system and sharing permissions.
+__label__1 As a dataset developer, I want to delete outdated versions of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
+__label__1 Information that describes an individual’s behavior or activity, on-line or off
+__label__1 Information about an individual's marriage(s).
+__label__1 As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
+__label__1 As a participant, I want to be able start a two-minute countdown timer that all participants can see, so that I can limit the time spent discussing the estimates when I think we’ve talked long enough.
+__label__0 Practices and policies regarding training of staff members
+__label__0 Organisational measures required/followed when processing data of the declared category
+__label__1 Information about an individual's proclivities in a sexual context
+__label__1 As a user, I want to either keep a logbook entry private or share it with individuals rather than groups.
+__label__1 As an administrator, I want to have researchers reset their own passwords, so that I don't have to send passwords in cleartext.
+__label__0 As a Consumer, I want to view a data package online, so that I can get a sense of whether this is the dataset I want.
+__label__0 As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
+__label__0 As an investigator, I want to view the acceptance test results, so that I can understand how feature-complete the Neurohub node currently is.
+__label__1 As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms.
+__label__0 As a Publisher, I want to be able to get access to a previous version I tagged, so that that I can return to it and review it.
+__label__1 Information about an individual's income bracket.
+__label__1 As a Cornell faculty member, I want to create a collection for my documents, or my organization's documents, and apply some distinctive branding to that collection, so that I can promote my work, or that of my organization.
+__label__0 As a Publisher, I want to validate the data I am about to publish to the registry, so that that I publish good data and know that I am doing.
+__label__1 As a Data Publishing User, I want to have my dataset update automatically as the source file/files changes, So that OpenSpending always shows current data.
+__label__1 As an OlderPerson, I want to have ALFRED to enable me to have face to face contacts as well, so that I do not just have virtual contacts over ALFRED.
+__label__0 As a collection curator, I want to see a dashboard widget showing a summary of recent submissions to my collection.
+__label__0 As an archivist, I want to automatically create access derivatives of digital objects, so that I don't have to do this manually.
+__label__0 As a researcher, I want to recruit for the last round of user research, so that we can summarize our findings and synthesize results.
+__label__0 As a user, I want to get info about perceptually similar video items and segments.
+__label__1 As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
+__label__1 Information about a device that an individual uses for personal use (even part-time or with others)
+__label__1 As a lab member, I want to view events and equipment bookings within the group.
+__label__0 As a user researcher, I want to have a list of priority workflow candidates that we might test, so that I can make sure we're capturing the priority areas.
+__label__1 Information about an individual's sexual preferences
+__label__1 As a Bath Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still required is not destroyed.
+__label__0 As a repository manager, I want to view available versions of an object and restore a version from the staff interface.
+__label__0 As a researcher, I want to export descriptive data in a common format, so that I can use text mining tools on it.
+__label__0 Generic property specifying when or under which condition(s) the consent will expire
+__label__0 As a Data Analyst, I want to compare different versions of some datapackage locally, so that that I can see schema changes clearly and adjust my analytics code to the desired schema version.
+__label__1 As a trainer, I want to list my upcoming classes in my profile and include a link to a detailed page about each, so that prospective attendees can find my courses.
+__label__1 As a Director of Research Integrity, I want to access reports containing details of research projects in which data are classified as sensitive or highly sensitive, so that I can confirm security protocols are applied to these data.
+__label__0 As a user, I want backend changes for bulk updating one enum value to another.
+__label__1 As a moderator, I want to enter the agreed-upon estimate, so that we can move on to the next item when we agree.
+__label__0 As a Developer, I want to be able to customise the Brand Name and Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs.
+__label__0 As a Planning Staff member, I want to Conduct and Track Plan Amendments and Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s).
+__label__0 As an OlderPerson, I want to use ALFRED to contact help in case of an emergency.
+__label__0 As a anonymoususer, I want to read the blog, so that I can stay informed about all the latest happenings with BADCamp.
+__label__1 Information about an individual's work history in a professional context
+__label__0 As a library staff member, I want to deliver streaming media from within the repository, so that I can deliver such content in the manner expected and ensure continued access to said content.
+__label__1 Information about an individual's divorce(s).
+__label__1 As a faculty member, I want to go to my repository dashboard to manage members of my classes, grant submit permissions by pasting in a list of NetIDs, see confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to set begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't submitted.
+__label__1 As a Zooniverse admin, I want to know when a volunteer has made an interesting comment on a subject.
+__label__0 As a user, I want to specify schema as a SQL schema string.
+__label__1 As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I receive attribution for my data as well as my publications.
+__label__0 As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
+__label__0 As a user, I want to get feedback when I enter an invalid zip code.
+__label__1 Information about an individual's references in the professional context
+__label__0 As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
+__label__0 As a trainer, I want to create a new course or event, so that site visitors can see it.
+__label__0 As an Archivist, I want to create and edit Rights Management statements.
+__label__0 As a researcher, I want to secure remote access to the Neurohub node when working away from the laboratory
+__label__1 As a Consumer, I want to see a publisher's profile, so that that I can discover their packages and get a sense of how active and good they are.
+__label__1 Information relating to an individual's credit record.
+__label__0 As a Consumer, I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it.
+__label__1 As a data manager, I want to know what the content of the data is, so that I can check whether the necessary expertise for maintaining intellectual reusability is available.
+__label__0 As a anonymoususer, I want to learn about sponsorship levels, so that I can determine the right level of sponsorship for my organization.
+__label__0 As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified.
+__label__1 Information about an individual’s family and relationships
+__label__0 As a trainer, I want to copy one of my courses or events, so that I can create a new one.
+__label__1 As a moderator, I want to change my account details, so that I can keep my account details up-to-date.
+__label__0 As a developer, I want to attend some UI/UX lessons, so that I can develop an awesome and beautiful features website.
+__label__0 As an archive, I want to get information about the volume of data to preserve at an early stage, so that I can provide the adequate storage infrastructure.
+__label__0 As an Archivist, I want to assign a component unique identifier to a Resource Component.
+__label__0 As a library staff member, I want to trace the list of revisors to determine who uploaded an item to the repository, so that I can confirm that proper procedures were followed.
+__label__0 As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
+__label__1 As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data.
+__label__1 As a developer, I want an online service that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party.
+__label__0 As a user, I don't want to see NASA grants displayed as contracts.
+__label__1 As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.
+__label__1 As a researcher, I want to import metadata that I captured with a metadata tool, so that I do not have to capture it again in a DMP.
+__label__1 As a faculty member, I want to upload my scholarly work to the repository, so that I can have a persistent URL that can be used for my personal web page and CV.
+__label__1 As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+__label__1 Information about financial transactions e.g. bank transfers
+__label__1 As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can link funding to all of the outputs it produces.
+__label__0 As a researcher,  I want to have the ability to bulk upload directories and files with minimal effort.
+__label__1 As an OlderPerson, I want to receive a medicine reminder from ALFRED.
+__label__1 As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am lost.
+__label__1 Information that relates to an individual's demeanor.
+__label__0 As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
+__label__1 Information about an individual's sibling(s).
+__label__1 As a researcher,  I want to have the ability to attach standard meta data for drug responses, so that my data can later be searched for and understood.
+__label__0 As a Zooniverse admin, I want to identify the number of whales heard in a single audio file.
+__label__1 As an OlderPerson, I want to help me to control my body weight.
+__label__0 Used to scope the purpose, e.g. restriction to a certain business sector
+__label__0 Practices regarding incorporating data protection and privacy in the design of information and services
+__label__0 As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.
+__label__0 As a corporatesponsor, I want to display my logo on a corporate sponsors page, so that others see the company's support of Scrum.
+__label__0 As a administrator, I want to bulk approve sessions as accepted, so that I can save time.
+__label__0 As a institutional data steward, I want to be able to extract the data sets that are submitted to external repositories, so that I can add them to an institutional data catalogue.
+__label__1 As a DB/IR administrator, I want to search for administrator accounts using full/partial email or name.
+__label__0 As a researcher, I want to extract the description of the data collected, so that I can reuse it for the writing of a data paper.
+__label__0 As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers.
+__label__0 As a site visitor, I want to see new content when I come to the site, so that I come back more often.
+__label__0 As a developer, I want to have the API to be well defined and well documented.
+__label__1 As an OlderPerson, I want to have games that include my favourite sports.
+__label__0 As a collection curator, I want to allow some collections the option of setting an embargo date at deposit.
+__label__0 As a site visitor, I want to see a list of all upcoming Certification Courses and can page through them if there are a lot, so that I can choose the best course for me.
+__label__1 As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.
+__label__0 As an archivist, I want to add restriction end date information to files, so that I can share files when they become open.
+__label__0 a seal or a mark indicating proof of certification to some certification or standard
+__label__0 As an archivist, I want to distinguish between images scanned in color or black and white, so that I know whether or not these images meet publication requirements.
+__label__0 As a developer, I want to have the API components to be on a high level so that I donâ€™t have to deal with their details.
+__label__0 As a developer, I want to determine if we can use the in-built Fedora 4 event audit services.
+__label__1 As a user, I want to receive content recommendations based on most relevant news events in my area.
+__label__0 As a consumer, I want to view the data package, so that that I can get a sense of whether I want this dataset or not.
+__label__1 Information that relates to an individual's attitude.
+__label__1 As an OlderPerson, I want to use ALFRED to maintain my contact list in my phone.
+__label__0 As a repoadmin, I want to have Symplectic Elements to communicate
+__label__0 As a user, I want to identify broadcaster logos in videos, and receive related information about them.
+__label__0 As a site administrator, I want to understand how other similar organizations are handling content, so that I can make informed decisions about what appears to work well and what doesn't.
+__label__1 Information about an individual's reputation in the public sphere
+__label__0 As a team member, I want to know when the mid-point checkin is and what will be covered, so that I can plan accordingly.
+__label__1 As a user, I want to be able to browse through the list of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not going to leave a negative ecological footprint.
+__label__1 As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
+__label__0 As a team member, I want to have a platform that allows me to rapidly prototype HTML ideas.
+__label__1 As a supervisor, I want to view what my researchers were doing on a given date or period of time.
+__label__1 As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select times for things like notification of upcoming downtime.
+__label__0 As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
+__label__1 As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
+__label__0 As a repository manager, I want to say one collection is related to another collection.
+__label__1 An unique identifier used to identify an individual.
+__label__1 As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage.
+__label__1 As a hydrator user, I want to create a pipeline that reads or writes an existing dataset instance.
+__label__1 As an owner, I want to invite someone using their email to sign up and become a member of my Publisher, so that that they are authorized to publish data packages under my Publisher.
+__label__0 As a sponsor, I want to personalize my sponsorship page, so that I can promote my brand.
+__label__1 The contents of Emails that an individual sends or receives.
+__label__1 As a moderator, I want to select an item to be estimated or re-estimated, so that the team sees that item and can estimate it.
+__label__1 As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are located.
+__label__0 Security of data
+__label__0 As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
+__label__0 As an administrator, I want to assign rights to user groups or roles, so that I can control what users can and can't do.
+__label__1 An Internet protocol (IP) address of a device used by an individual.
+__label__0 As a Developer, I want to get a Data Package into Clojure in seconds, so that I can start using the data in doing analysis and visualizations.
+__label__0 As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.
+__label__1 As an OlderPerson, I want to have ALFRED ask spontaneous questions but it would be better to programme it during certain times of the day.
+__label__0 As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
+__label__1 Information about an individual's telephone number.
+__label__0 As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
+__label__1 As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility.
+__label__1 As an archivist, I want to search images by place the photo was taken.
+__label__0 As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements.
+__label__0 As a Zooniverse admin, I want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors.
+__label__1 As a developer, I want to have an easy way to define questions the user can ask and perform.
+__label__0 As a administrator, I want to mark a session as accepted, so that I can populate the schedule .
+__label__1 As a trainer, I want to load an Excel file into the site, so that the course participants are added to the Scrum Alliance records.
+__label__1 As a user, I want to have nice error pages when something goes wrong, so that I can trust the system and its developers.
+__label__0 As a researcher, I want to know when only part of a folder has been digitized, so that I know if I am seeing everything or only a portion.
+__label__1 As a Publisher, I want to unpublish a data package, so that it is no longer visible to anyone.
+__label__0 As a collection curator, I want to have metadata changes made to items with repository-assigned DOIs to be propagated to the EZID.
+__label__0 As a repository manager, I want to indicate other descriptions of the collection that are outside the DAMS and of probable importance to users.
+__label__0 As an OlderPerson, I want to have ALFRED to give me goals and missions that encourage me to do new activities and exercises and to go out.
+__label__1 As a trainee, I want to add to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+__label__1 As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data.
+__label__0 As a system administrator, I want to migrate data from an older version of NeuroHub to the current version.
+__label__0 As a team member, I want to have a high-level sense of the project timeline, so that I can plan my work.
+__label__0 As an API User, I want to be able to get bordering regions|cities when I query a region|city, So that I can provider wider visual context for mapping visualisations.
+__label__0 As a site editor, I want to assign priority numbers to news items, so that I can indicate which articles I want featured most prominently on the site.
+__label__0 As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.
+__label__1 As a moderator, I want to delete a game, so that stories and estimates for this game are no longer stored.
+__label__1 As a participant, I want to see who gave what estimates during the current round, so that I know this when we’re discussing the estimates.
+__label__0 As a user, I want to trigger a migration process for a dataset if updating its properties requires that.
+__label__0 As a repoadmin, I want to provide the server SLA to data contributors.
+__label__0 to gather data from someone
+__label__0 As an API User, I want to be able to normalise measures by geographical area, So that I work with datasets in reference to their contextual constraints.
+__label__1 As an MRI operator, I want to digitally record the responses that subjects make when completing paper-based forms.
+__label__0 As a site member, I want to subscribe to an RSS feed of jobs available, so that I can read them without visiting the site.
+__label__0 As a Publisher, I want to be able to overwrite the previously tagged datapackage, so that that I can fix it if I mess up.
+__label__0 To sell or provide targetted advertisements about the user to Third Parties
+__label__0 As an OlderPerson, I want to use ALFRED to control the heating.
+__label__1 As a summit coordinator, I want to list an agenda for my summit, so that I can entice attendees and give positive feedback to presenters to encourage participation.
+__label__0 As a user, I want more information about how many rows will be published prior to deciding whether to publish.
+__label__0 As a DAMS manager, I want to indicate to preservation managers aspects of a master file useful for monitoring its integrity, and impending obsolescence, including file size, creation date, file format and format version.
+__label__1 As an OlderPerson, I want to be able to see my training Performance.
+__label__0 As a collection curator, I want to set a date after which data will expire and be deleted or hidden then deleted.
+__label__0 Information used to authenticate an individual with something they know
+__label__0 As a Publisher, I would like a tool to check data availability persistence after publication.
+__label__1 As a Zooniverse admin, I want to know when I should interrupt a volunteer.
+__label__0 As an Archivist, I want to import EAD files that were exported by Archon.
+__label__0 As a team member, I want to have a prototype strategy, so that I understand how we will gain understandings from tests that will drive recommendations.
+__label__0 As an archivist, I want to view physical locations for non-archival material, so that I can provide research services to donors.
+__label__0 This property associates a data processing category with an instance of legal data handling or consent
+__label__0 As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
+__label__0 Category of certifications, seals, and marks indicating compliance to regulations or practices
+__label__0 As a user, I want to view the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.
+__label__0 As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.
+__label__0 As a developer, I want to enable customers to provide feedback about my App and need an easy way to watch this feedback.
+__label__0 A Person or Organisation, including Data Subjects, that constitute as a legal entity.
+__label__0 As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is developed further.
+__label__0 As a Cornell faculty member, I want to easily assign a CC license to the files I are depositing, so that users know how the materials can be used.
+__label__0 As a site administrator, I want to create an Other Course or Event that is not charged a listing fee, so that the Scrum Alliance doesn't charge itself for Scrum Gatherings that it puts on.
+__label__0 Derived data is data that has not been directly provided by the DataSubject, but has been derived from other collected or externally obtained data.
+__label__0 As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can determine what basic support services and functionalities are required.
+__label__0 As a researcher, I want to have accurate cross-collection citation information, so that I can find materials again.
+__label__0 As a site editor, I want to set start publishing dates, old article date, and stop publishing dates for articles, so that articles appear only during appropriate periods.
+__label__0 As an NSF employee, I want to know where the initial in-person meeting will be, so that I can plan on attending.
+__label__0 As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+__label__0 As a researcher, I want to download reports, so that I can use them in immediate and future in talks and articles.
+__label__0 As a user, I want to prove definitively that I created a page on a certain date.
+__label__0 Defines a location or goespatial scope, where the data is (physically) stored
+__label__0 As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
+__label__0 As a collection curator, I want to lift an embargo for an object in a simple way.
+__label__0 As a library staff member, I want to upload material to the repository on the author's behalf, so that I can fulfill a service obligation.
+__label__0 As a moderator, I want to select whether to have the team estimate with (0, 1/2, 1, 2, 3, 5, 8, etc.) or (0, 1, 2, 4, 8, 16, 32, etc.), so that the team can use either the modified Fibonacci sequence or powers of 2.
+__label__0 This property associates a technical/organisational measure with an instance of legal data handling or consent
+__label__0 As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages.
+__label__0 Top Class to describe a concrete instance of legal personal Data Handling of a defined class of Data Subjects, meaning that a personal Data Category is undergoing specified processing by a specific data controller and/or transferred to some recipient for a particular purpose, based on a specific legal ground, with specified security measures and restrictions (e.g. storage locations and storage durations).
+__label__0 As a repository manager, I want to indicate any license pertinent to an object.
+__label__0 As a user, I want to generate and validate D Files from FABS and FPDS data.
+__label__0 As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it.
+__label__0 As a user, I want to know the rights status of an object.
+__label__0 to make a record (especially media)
+__label__0 As a VisualDesigner, I want to concept different styles for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+__label__0 Indicates consent is explicit as explained in GDPR Article 9.2a and Article 22.2c
+__label__0 As a repository manager, I want to know any event that occurred to a content file for any of my repository's objects.
+__label__0 As an archivist, I want to search by tag, so that it makes finding particular photographs easier.
+__label__0 As a library staff member, I want to receive a quick response and a reasonable resolution to tech support issues, so that service can proceed with minimal interruption.
+__label__0 As a faculty data steward, I want to see the sections on costing, so that I can ensure sufficient expertise on data management to support the project.
+__label__0 This property associates a purpose with an instance of legal data handling or consent
+__label__0 As a collection curator, I want to create deposit forms specific to the collection.
+__label__0 As an academicresearcher, I want to find the works of a particular author in one easily sortable spot, so that I can see the evolution of their scholarship over time.
+__label__0 As a Zooniverse admin, I want to know when Zoonibot should comment on a subject.
+__label__0 As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
+__label__0 As a sponsor, I want to link BADCamp attendees to my sponsorship page, so that I can show off our level of attendance.
+__label__0 As a library staff member, I want to create a collection, sometimes with custom metadata fields, so that I can house digital material for wider distribution.
+__label__0 As a Zooniverse admin, I want to group whale calls that are similar.
+__label__0 As a site editor, I want to set the following dates on a news item: Start Publishing Date, Old News Date, Stop Publishing Date, so that articles are published on and through appropriate dates.
+__label__0 As a stakeholder, I want to know when the data management plan was created or updated, so that I know how up-to-date the plan is or whether it needs to be updated.
